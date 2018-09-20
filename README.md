@@ -1,1 +1,1 @@
-# Doem_RecycvlerVoiewAdapteryhwdawdawdawdwdwad
+简写适配器
